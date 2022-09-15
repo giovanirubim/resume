@@ -1,0 +1,11 @@
+---
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# Quati View
+- project: Quati View
+  role: Developer
+  duration: 2020 &mdash; 2021
+  url: "https://giovanirubim.github.io/quatiview/"
+  description: Study and development of a graphical, interactive tool
+               for learning data structure.

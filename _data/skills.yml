@@ -1,0 +1,17 @@
+---
+# Skills
+- skill: Programing Languages
+  description: JavaScript, NodeJS, C/C++, TypeScript, Golang, Kotlin, Java,
+               Python
+
+# - skill: Frameworks
+#   description: FastAPI, Flask, Tornado, ReactJS, React Native
+
+- skill: Databases
+  description: PostgreSQL, MySQL
+
+- skill: Other
+  description: Docker, Kafka, WebGL, Git, HTML, CSS
+
+- skill: Languages
+  description: English and Portuguese
